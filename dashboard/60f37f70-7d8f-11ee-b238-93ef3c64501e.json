@@ -303,7 +303,6 @@
     "name" : "Luz",
     "title" : "Luz"
   },
-  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ ]
   }
